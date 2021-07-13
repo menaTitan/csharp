@@ -1,0 +1,10 @@
+C:\Users\menas\source\repos\BackgroundWorker\BackgroundWorker\bin\Debug\BackgroundWorker.exe.config
+C:\Users\menas\source\repos\BackgroundWorker\BackgroundWorker\bin\Debug\BackgroundWorker.exe
+C:\Users\menas\source\repos\BackgroundWorker\BackgroundWorker\bin\Debug\BackgroundWorker.pdb
+C:\Users\menas\source\repos\BackgroundWorker\BackgroundWorker\obj\Debug\BackgroundWorker.csproj.AssemblyReference.cache
+C:\Users\menas\source\repos\BackgroundWorker\BackgroundWorker\obj\Debug\BackgroundWorker.Form1.resources
+C:\Users\menas\source\repos\BackgroundWorker\BackgroundWorker\obj\Debug\BackgroundWorker.Properties.Resources.resources
+C:\Users\menas\source\repos\BackgroundWorker\BackgroundWorker\obj\Debug\BackgroundWorker.csproj.GenerateResource.cache
+C:\Users\menas\source\repos\BackgroundWorker\BackgroundWorker\obj\Debug\BackgroundWorker.csproj.CoreCompileInputs.cache
+C:\Users\menas\source\repos\BackgroundWorker\BackgroundWorker\obj\Debug\BackgroundWorker.exe
+C:\Users\menas\source\repos\BackgroundWorker\BackgroundWorker\obj\Debug\BackgroundWorker.pdb
